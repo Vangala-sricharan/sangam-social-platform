@@ -1,0 +1,6 @@
+{
+  "name": "SANGAM",
+  "description": "Connect. Share. Belong. Premium modern social media and community platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
